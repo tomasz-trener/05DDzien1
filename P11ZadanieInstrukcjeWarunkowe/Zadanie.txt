@@ -1,0 +1,11 @@
+﻿
+
+Wczytaj z konsoli dowolne równanie złożone
+z dwóch liczb i operatora : + lub - lub * lub / 
+
+po wczytaniu wypisz wynik
+
+
+przykład:
+wejście 15*3
+wynik: 45

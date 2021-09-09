@@ -1,0 +1,20 @@
+﻿
+Wczytaj od uzytkownika ściezkę do pliku 
+potem wczytaj dowolny wyraz 
+
+podaj ile razy ten wyraz wystepuje w danym pliku 
+
+przykładowa zawartośc pliku:
+ala ma kota i ma psa, który też nazywa się Ala.
+Ala barzo lubi bawić się ze sowimi zwierzętami.
+Najbarzdiej ze swoją koleżanką, która też nazywa się Ala
+
+szukany wyraz:
+ala
+
+wynik:
+4
+
+
+wielkość liter nie ma znaczenia 
+mój pomysł: petle, substring , if , ++

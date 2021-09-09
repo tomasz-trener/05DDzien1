@@ -1,0 +1,13 @@
+﻿
+Zadanie 1)
+Wczytaj dowolny ciąg tekstowy z konsoli 
+
+1) wypisz ile ma znaków
+2) zamien tylko pierwszą i ostatnią literę na dużą (pozostałe na małe)
+
+
+Zadanie 2) 
+Wczytaj równanie złożone z sumy dwóch dowolnych liczb w jednym wierszu np:
+15+5
+
+wypisz na konsoli wynik (np: 20)
